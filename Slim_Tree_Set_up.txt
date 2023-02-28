@@ -1,0 +1,54 @@
+#### Helpful resources to run SLim-Tree
+
+
+
+####Slim_Tree_Conda: conda install -c conda-forge -c bioconda biopython slim==3.6 matplotlib-base pandas numpy java-jdk c-compiler snakemake
+
+#####Github - specific branch: git clone -b dev https://github.com/dekoning-lab/slim-tree.git
+
+#####Create a folder inside main folder: mkdir backupFiles/p1.fasta
+
+##### Example Newick Tree Input File:
+((((:14472,:14472):7128,:21600):14400,:36000):4000,:40000);
+
+
+
+##### Designing Hominid Newick Input:
+
+
+
+## Nea-Deni #NeDe-MdrnH
+(((:20000,:20000):5000,:25000):325000,:350000);
+
+
+## Nea-MdrnH      #NeaMdrnH-Chmp  #NeaMdrnHChmp-Gor#NeaMdrnHChmpGor-Pong
+((((:25000,:25000):275000,:300000):100000,:400000):300000,700000:);
+
+#### Run SLim-Tree:
+python3 slim-tree/SLiMTree.py -i TEST_NEWICK -T SLim-Tree -k 1
+
+
+-i: input newick
+
+-k: number of individuals sampled from population
+
+-g: number of codons default 300
+
+-v: mutation rate default 2.5e-6
+
+-r: recomb rate deafult 2.5e-8
+
+-b: burn-in multiplier, default 10
+
+-w: if using a WF model, default True
+
+
+
+
+
+
+##### Packages with Tree distances
+
+https://anaconda.org/conda-forge/r-treedist ------- for ----->  https://ms609.github.io/TreeDist/reference/KendallColijn.html
+
+conda install -c etetoolkit ete3 ete_toolchain ------- for ----->  http://etetoolkit.org/documentation/ete-compare/#compare_basics

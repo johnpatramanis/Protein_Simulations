@@ -1,0 +1,235 @@
+LOCUS       NM_001142                793 bp    mRNA    linear   PRI 20-DEC-2022
+DEFINITION  Homo sapiens amelogenin X-linked (AMELX), transcript variant 1,
+            mRNA.
+ACCESSION   NM_001142
+VERSION     NM_001142.2
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 793)
+  AUTHORS   Leban T, Trebusak Podkrajsek K, Kovac J, Fidler A and Pavlic A.
+  TITLE     An Intron c.103-3T&gt;C Variant of the AMELX Gene Causes Combined
+            Hypomineralized and Hypoplastic Type of Amelogenesis Imperfecta:
+            Case Series and Review of the Literature
+  JOURNAL   Genes (Basel) 13 (7), 1272 (2022)
+   PUBMED   35886055
+  REMARK    GeneRIF: An Intron c.103-3T&gt;C Variant of the AMELX Gene Causes
+            Combined Hypomineralized and Hypoplastic Type of Amelogenesis
+            Imperfecta: Case Series and Review of the Literature.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 793)
+  AUTHORS   Tremillo-Maldonado O, Molina-Frechero N, Gonzalez-Gonzalez R,
+            Damian-Matsumura P, Sanchez-Perez L, Sicco E, Suarez M and
+            Bologna-Molina R.
+  TITLE     DNA sequencing reveals AMELX, ODAM and MMP20 variations in dental
+            fluorosis
+  JOURNAL   Arch Oral Biol 110, 104626 (2020)
+   PUBMED   31838295
+  REMARK    GeneRIF: AMELX and ODAM variations was not different between two
+            populations of schoolchildren with respect to dental fluorosis (DF)
+            severity; however, the presence of rs1784418 differed between
+            phenotypes with regard to susceptibility to DF. Therefore, MMP20
+            might be related to the various phenotypes of DF
+REFERENCE   3  (bases 1 to 793)
+  AUTHORS   Duan X, Yang S, Zhang H, Wu J, Zhang Y, Ji D, Tie L and Boerkoel
+            CF.
+  TITLE     A Novel AMELX Mutation, Its Phenotypic Features, and Skewed X
+            Inactivation
+  JOURNAL   J Dent Res 98 (8), 870-878 (2019)
+   PUBMED   31185186
+  REMARK    GeneRIF: family study of a novel AMELX mutation with skewed X
+            chromosome inactivation causing hypoplastic and hypomineralized
+            amelogenesis imperfecta
+REFERENCE   4  (bases 1 to 793)
+  AUTHORS   Zakaraia S, Almohareb M, Zaid K, Doumani M and Seirawan MY.
+  TITLE     Amelogenin is a Potential Biomarker for the Aggressiveness in
+            Odontogenic Tumors
+  JOURNAL   Asian Pac J Cancer Prev 19 (5), 1375-1379 (2018)
+   PUBMED   29802703
+  REMARK    GeneRIF: High AMEL expression is associated with Aggressiveness in
+            Odontogenic Tumors.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 793)
+  AUTHORS   Pegoraro M, Matic S, Pergolizzi B, Iannarelli L, Rossi AM, Morra M
+            and Noris E.
+  TITLE     Cloning and Expression Analysis of Human Amelogenin in Nicotiana
+            benthamiana Plants by Means of a Transient Expression System
+  JOURNAL   Mol Biotechnol 59 (9-10), 425-434 (2017)
+   PUBMED   28801830
+  REMARK    GeneRIF: To the best of our knowledge, this is the first report of
+            expression of human amelogenin in plants, offering the possibility
+            to use this plant-made protein for nanotechnological applications.
+REFERENCE   6  (bases 1 to 793)
+  AUTHORS   Aldred MJ, Crawford PJ, Roberts E and Thomas NS.
+  TITLE     Identification of a nonsense mutation in the amelogenin gene
+            (AMELX) in a family with X-linked amelogenesis imperfecta (AIH1)
+  JOURNAL   Hum Genet 90 (4), 413-416 (1992)
+   PUBMED   1483698
+REFERENCE   7  (bases 1 to 793)
+  AUTHORS   Salido EC, Yen PH, Koprivnikar K, Yu LC and Shapiro LJ.
+  TITLE     The human enamel protein gene amelogenin is expressed from both the
+            X and the Y chromosomes
+  JOURNAL   Am J Hum Genet 50 (2), 303-316 (1992)
+   PUBMED   1734713
+REFERENCE   8  (bases 1 to 793)
+  AUTHORS   Lagerstrom M, Dahl N, Nakahori Y, Nakagome Y, Backman B, Landegren
+            U and Pettersson U.
+  TITLE     A deletion in the amelogenin gene (AMG) causes X-linked
+            amelogenesis imperfecta (AIH1)
+  JOURNAL   Genomics 10 (4), 971-975 (1991)
+   PUBMED   1916828
+REFERENCE   9  (bases 1 to 793)
+  AUTHORS   Fincham AG, Bessem CC, Lau EC, Pavlova Z, Shuler C, Slavkin HC and
+            Snead ML.
+  TITLE     Human developing enamel proteins exhibit a sex-linked dimorphism
+  JOURNAL   Calcif Tissue Int 48 (4), 288-290 (1991)
+   PUBMED   2059881
+REFERENCE   10 (bases 1 to 793)
+  AUTHORS   Nakahori Y, Takenaka O and Nakagome Y.
+  TITLE     A human X-Y homologous region encodes 'amelogenin'
+  JOURNAL   Genomics 9 (2), 264-269 (1991)
+   PUBMED   2004775
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from M86932.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Jan 19, 2000 this sequence version replaced NM_001142.1.
+            
+            Summary: This gene encodes a member of the amelogenin family of
+            extracellular matrix proteins. Amelogenins are involved in
+            biomineralization during tooth enamel development. Mutations in
+            this gene cause X-linked amelogenesis imperfecta. Alternative
+            splicing results in multiple transcript variants encoding different
+            isoforms. [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (1) lacks an in-frame exon in the
+            coding region, compared to variant 3. Isoform 1 is shorter than
+            isoform 3 and is the most abundant isoform of this protein.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: M86932.1, BC074951.2 [ECO:0000332]
+            RNAseq introns              :: partial sample support SAMEA2161674
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000380714.7/ ENSP00000370090.3
+            RefSeq Select criteria :: based on conservation, expression
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-793               M86932.1           1-793
+FEATURES             Location/Qualifiers
+     source          1..793
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xp22.2"
+     gene            1..793
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /note="amelogenin X-linked"
+                     /db_xref="GeneID:265"
+                     /db_xref="HGNC:HGNC:461"
+                     /db_xref="MIM:300391"
+     exon            1..56
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    42..44
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /note="upstream in-frame stop codon"
+     exon            57..122
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             69..644
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /note="isoform 1 precursor is encoded by transcript
+                     variant 1; amelogenin (X chromosome, amelogenesis
+                     imperfecta 1); amelogenin (amelogenesis imperfecta 1,
+                     X-linked)"
+                     /codon_start=1
+                     /product="amelogenin, X isoform isoform 1 precursor"
+                     /protein_id="NP_001133.1"
+                     /db_xref="CCDS:CCDS14144.1"
+                     /db_xref="GeneID:265"
+                     /db_xref="HGNC:HGNC:461"
+                     /db_xref="MIM:300391"
+                     /translation="MGTWILFACLLGAAFAMPLPPHPGHPGYINFSYEVLTPLKWYQS
+                     IRPPYPSYGYEPMGGWLHHQIIPVLSQQHPPTHTLQPHHHIPVVPAQQPVIPQQPMMP
+                     VPGQHSMTPIQHHQPNLPPPAQQPYQPQPVQPQPHQPMQPQPPVHPMQPLPPQPPLPP
+                     MFPMQPLPPMLPDLTLEAWPSTDKTKREEVD"
+     sig_peptide     69..116
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /note="/evidence=ECO:0000269|PubMed:2509010; propagated
+                     from UniProtKB/Swiss-Prot (Q99217.1)"
+     mat_peptide     117..641
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /product="Amelogenin, X isoform. /id=PRO_0000001199"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q99217.1)"
+     misc_feature    162..164
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P02817; propagated from
+                     UniProtKB/Swiss-Prot (Q99217.1); phosphorylation site"
+     misc_feature    351..641
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q99217.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            123..170
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            171..212
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            213..638
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            639..793
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      773..778
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /note="hexamer: AATAAA"
+     polyA_site      793
+                     /gene="AMELX"
+                     /gene_synonym="AI1E; AIH1; ALGN; AMG; AMGL; AMGX"
+                     /note="major polyA site"
+ORIGIN      
+        1 aaaggatcaa gcatccctga gtttcaaaca gaaacttgca ctgaatacat tcaaagaacc
+       61 atcaagaaat ggggacctgg attttatttg cctgcctcct gggagcagct tttgccatgc
+      121 ctctaccacc tcatcctggg caccctggtt atatcaactt cagctatgag gtgcttaccc
+      181 ctttgaagtg gtaccagagc ataaggccac cgtacccttc ctatggttac gagcccatgg
+      241 gtggatggct gcaccaccaa atcatccccg tgctgtccca acagcacccc ccgactcaca
+      301 ccctgcagcc tcatcaccac atcccagtgg tgccagctca gcagcccgtg atcccccagc
+      361 aaccaatgat gcccgttcct ggccaacact ccatgactcc aatccaacac caccagccaa
+      421 acctccctcc gcccgcccag cagccctacc agccccagcc tgttcagcca cagcctcacc
+      481 agcccatgca gccccagcca cctgtgcacc ccatgcagcc cctgccgcca cagccacctc
+      541 tgcctccgat gttccccatg cagcccctgc ctcccatgct tcctgatctg actctggaag
+      601 cttggccatc aacagacaag accaagcggg aggaagtgga ttaaaagatc agaagatgag
+      661 aggggaatga atacttcaga tgctttcagg agtgacacaa gaacacaatg atttttgctt
+      721 ataatcactt tacttagcaa attctgtaac taaaaaagta ccattagcag acaataaaat
+      781 gcattaaaaa tca
+//
+
